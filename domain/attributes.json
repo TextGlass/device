@@ -1,5 +1,5 @@
 {
-  "specVersion": 1.0,
+  "TextGlassSpecVersion": 1.0,
   "type": "attribute",
   "domain": "TextGlass_device",
   "domainVersion": "1.0",
