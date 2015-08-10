@@ -5,6 +5,9 @@
   "domainVersion": "1.0",
   "description": "TextGlass device domain tests",
   "publishDate": "2015-08-03T10:43:00-0400",
+  "legal": {
+    "license": "none"
+  },
   "tests": [
     {
       "input": "LG-GS290/V100 Obigo/WAP2.0 Profile/MIDP-2.1 Configuration/CLDC-1.1",
