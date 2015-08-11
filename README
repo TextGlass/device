@@ -2,4 +2,18 @@ TextGlass device domain
 
 Forked from Apache DeviceMap Data 1.0.3
 
-TODO - remove browser and OS from this
+Device attributes:
+
+ * displayHeight
+ * displayWidth
+ * from
+ * inputDevices
+ * is_bot
+ * is_desktop
+ * is_tablet
+ * is_wireless_device
+ * model
+ * name
+ * ppi
+ * releaseYear
+ * vendor

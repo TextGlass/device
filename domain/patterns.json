@@ -26,7 +26,7 @@
   },
   "patternSet": {
     "defaultId": "unknown",
-    "simpleHashCount": 2988,
+    "simpleHashCount": 2987,
     "patterns": [
       {
          "patternId": "001HT",
@@ -2145,12 +2145,6 @@
          "rankType": "None",
          "patternType": "Simple",
          "patternTokens": ["bb10"]
-      },
-      {
-         "patternId": "genericFirefoxOS",
-         "rankType": "None",
-         "patternType": "Simple",
-         "patternTokens": ["mozilla50mobile", "mozilla50tablet"]
       },
       {
          "patternId": "genericPhone",

@@ -4682,22 +4682,6 @@
       "resultPatternId": "HTC One M8"
     },
     {
-      "input": "Mozilla/5.0 (Mobile; rv:14.0) Gecko/14.0 Firefox/14.0",
-      "resultPatternId": "genericFirefoxOS"
-    },
-    {
-      "input": "Mozilla/5.0 (Mobile; rv:17.0) Gecko/17.0 Firefox/17.0",
-      "resultPatternId": "genericFirefoxOS"
-    },
-    {
-      "input": "Mozilla/5.0 (Mobile; rv:18.1) Gecko/18.1 Firefox/18.1",
-      "resultPatternId": "genericFirefoxOS"
-    },
-    {
-      "input": "Mozilla/5.0 (Tablet; rv:18.1) Gecko/18.1 Firefox/18.1",
-      "resultPatternId": "genericFirefoxOS"
-    },
-    {
       "input": "Mozilla/5.0 (Linux; Android 4.3; SGP311 Build/10.4.B.0.577) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.102 Safari/537.36",
       "resultPatternId": "SGP311"
     },
