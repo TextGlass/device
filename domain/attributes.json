@@ -24309,6 +24309,11 @@
         "inputDevices": "touchscreen"
       }
     },
+    "unknown": {
+      "attributes": {
+        "error": "true"
+      }
+    },
     "US740": {
       "parentId": "genericLG",
       "attributes": {
