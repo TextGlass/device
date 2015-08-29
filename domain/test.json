@@ -1,7 +1,7 @@
 {
   "TextGlassSpecVersion": 1.0,
   "type": "test",
-  "domain": "TextGlass_device",
+  "domain": "device",
   "domainVersion": "1.0",
   "description": "TextGlass device domain tests",
   "publishDate": "2015-08-03T10:43:00-0400",
