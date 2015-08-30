@@ -6,7 +6,7 @@
   "description": "TextGlass device domain tests",
   "publishDate": "2015-08-03T10:43:00-0400",
   "legal": {
-    "license": "none"
+    "license": "Apache License 2.0"
   },
   "tests": [
     {
