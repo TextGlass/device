@@ -1,8 +1,8 @@
-TextGlass device domain
+TextGlass Device Domain
+=======================
 
-Forked from Apache DeviceMap Data 1.0.3
-
-Device attributes:
+Device attributes
+-----------------
 
  * displayHeight
  * displayWidth
@@ -18,3 +18,8 @@ Device attributes:
  * releaseYear
  * vendor
  * error
+
+Credits
+-------
+
+Data forked from Apache DeviceMap (OpenDDR) 1.0.3
