@@ -17,7 +17,7 @@ Device attributes
  * ppi
  * releaseYear
  * vendor
- * error
+ * unknown
 
 Credits
 -------
