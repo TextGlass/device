@@ -4,7 +4,7 @@
   "domain": "device",
   "domainVersion": "1.0",
   "description": "TextGlass device domain tests",
-  "publishDate": "2015-09-02T17:02:17-0400",
+  "publishDate": "2015-10-15T19:03:08-0400",
   "legal": {
     "license": "Apache License 2.0"
   },
