@@ -11,7 +11,7 @@ Device attributes
  * is_bot
  * is_desktop
  * is_tablet
- * is_wireless_device
+ * is_mobile_device
  * model
  * name
  * ppi
