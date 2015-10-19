@@ -4,7 +4,7 @@
   "domain": "device",
   "domainVersion": "1.0",
   "description": "TextGlass device domain",
-  "publishDate": "2015-10-15T19:03:08-0400",
+  "publishDate": "2015-10-19T11:57:55-0400",
   "legal": {
     "license": "Apache License 2.0"
   },
@@ -83,7 +83,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -117,7 +117,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -129,7 +129,7 @@
         "from": "open_db_modified",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -141,7 +141,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -149,7 +149,7 @@
       "parentId": "genericArchos",
       "attributes": {
         "model": "A101IT",
-        "is_tablet": "true",
+        "tablet": "true",
         "from": "open_db_modified",
         "displayWidth": "240",
         "displayHeight": "320"
@@ -163,7 +163,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -175,7 +175,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -187,7 +187,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -209,7 +209,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "854",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -221,7 +221,7 @@
         "from": "open_db_modified",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -233,7 +233,7 @@
         "from": "open_db_modified",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -245,7 +245,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -257,7 +257,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -324,7 +324,7 @@
         "from": "oddr",
         "displayWidth": "1080",
         "displayHeight": "1920",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -336,7 +336,7 @@
         "from": "oddr",
         "displayWidth": "1080",
         "displayHeight": "1920",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -347,7 +347,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -368,7 +368,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -603,7 +603,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -615,7 +615,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -1378,7 +1378,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -1390,7 +1390,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -1402,7 +1402,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -1431,7 +1431,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -1442,7 +1442,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -1474,7 +1474,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -1486,7 +1486,7 @@
         "from": "oddr",
         "displayWidth": "1200",
         "displayHeight": "1920",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -1498,7 +1498,7 @@
         "from": "oddr",
         "displayWidth": "1200",
         "displayHeight": "1920",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -1519,7 +1519,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -1531,7 +1531,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -1543,7 +1543,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -2134,7 +2134,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -2618,7 +2618,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -2672,7 +2672,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -2684,7 +2684,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -2826,7 +2826,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -2838,7 +2838,7 @@
         "from": "open_db_modified",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -2849,7 +2849,7 @@
         "from": "open_db_modified",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -2933,7 +2933,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -3228,7 +3228,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -3241,7 +3241,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -3265,7 +3265,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -3331,7 +3331,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -3423,7 +3423,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -3514,14 +3514,14 @@
       "parentId": "root",
       "attributes": {
         "model": "",
-        "is_bot": "false",
+        "bot": "false",
         "displayWidth": "",
         "vendor": "",
-        "is_desktop": "false",
+        "desktop": "false",
         "displayHeight": "",
-        "is_tablet": "false",
+        "tablet": "false",
         "inputDevices": "",
-        "is_mobile_device": "true"
+        "mobile": "true"
       }
     },
     "genericAccess": {
@@ -3685,8 +3685,8 @@
     "genericDesktop": {
       "parentId": "generic-",
       "attributes": {
-        "is_mobile_device": "false",
-        "is_desktop": "true"
+        "mobile": "false",
+        "desktop": "true"
       }
     },
     "genericDoCoMo": {
@@ -3779,7 +3779,7 @@
         "model": "SM-T",
         "name": "Galaxy Tab",
         "from": "devicemap",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -3987,7 +3987,7 @@
       "parentId": "generic-",
       "attributes": {
         "vendor": "Nextbook",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -4042,7 +4042,7 @@
     "genericPhone": {
       "parentId": "generic-",
       "attributes": {
-        "is_mobile_device": "true"
+        "mobile": "true"
       }
     },
     "genericQtek": {
@@ -4170,7 +4170,7 @@
       "parentId": "generic-",
       "attributes": {
         "inputDevices": "touchscreen",
-        "is_mobile_device": "true"
+        "mobile": "true"
       }
     },
     "genericUTStarcom": {
@@ -4222,7 +4222,7 @@
         "vendor": "ViewSonic",
         "displayWidth": "320",
         "displayHeight": "480",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -4235,8 +4235,8 @@
     "genericWebBot": {
       "parentId": "generic-",
       "attributes": {
-        "is_bot": "true",
-        "is_mobile_device": "false"
+        "bot": "true",
+        "mobile": "false"
       }
     },
     "genericWellcoM": {
@@ -4256,7 +4256,7 @@
         "vendor": "Zenithink",
         "displayWidth": "240",
         "displayHeight": "320",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -4274,7 +4274,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5273,7 +5273,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5285,7 +5285,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5297,7 +5297,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5320,7 +5320,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5343,7 +5343,7 @@
         "from": "open_db_modified",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5355,7 +5355,7 @@
         "from": "open_db_modified",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5367,7 +5367,7 @@
         "from": "open_db_modified",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5379,7 +5379,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5391,7 +5391,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5403,7 +5403,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5415,7 +5415,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5427,7 +5427,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5439,7 +5439,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5451,7 +5451,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5463,7 +5463,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5475,7 +5475,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5487,7 +5487,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5499,7 +5499,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5511,7 +5511,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5523,7 +5523,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5535,7 +5535,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5547,7 +5547,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5559,7 +5559,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5571,7 +5571,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5583,7 +5583,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5595,7 +5595,7 @@
         "from": "open_db_modified",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5607,7 +5607,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5619,7 +5619,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5631,7 +5631,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5643,7 +5643,7 @@
         "from": "open_db_modified",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5655,7 +5655,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5667,7 +5667,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -5679,7 +5679,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -6485,7 +6485,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -7451,7 +7451,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -7953,7 +7953,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -8399,7 +8399,7 @@
         "from": "open_db_modified",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -8410,7 +8410,7 @@
         "from": "open_db_modified",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -8469,7 +8469,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -8510,7 +8510,7 @@
       "parentId": "genericApple",
       "attributes": {
         "model": "iPad",
-        "is_tablet": "true",
+        "tablet": "true",
         "from": "open_db_modified",
         "displayWidth": "768",
         "displayHeight": "1024"
@@ -8630,7 +8630,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -8642,7 +8642,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -8674,7 +8674,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -8686,7 +8686,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true"
+        "tablet": "true"
       }
     },
     "KIWIE_UNIQO": {
@@ -8697,7 +8697,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -8828,7 +8828,7 @@
         "from": "open_db_modified",
         "displayWidth": "768",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -8894,7 +8894,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -11338,7 +11338,7 @@
         "from": "open_db_modified",
         "displayWidth": "320",
         "displayHeight": "480",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -11372,7 +11372,7 @@
         "from": "oddr",
         "displayWidth": "1200",
         "displayHeight": "1920",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -11384,7 +11384,7 @@
         "from": "oddr",
         "displayWidth": "1200",
         "displayHeight": "1920",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -11396,7 +11396,7 @@
         "from": "open_db_modified",
         "displayWidth": "768",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -11761,7 +11761,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -11772,7 +11772,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12151,7 +12151,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12163,7 +12163,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12175,7 +12175,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12209,7 +12209,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12266,7 +12266,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12536,7 +12536,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12548,7 +12548,7 @@
         "from": "devicemap",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12560,7 +12560,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12572,7 +12572,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12584,7 +12584,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12596,7 +12596,7 @@
         "from": "oddr",
         "displayWidth": "1200",
         "displayHeight": "1920",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12608,7 +12608,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12620,7 +12620,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12654,7 +12654,7 @@
         "from": "oddr",
         "displayWidth": "1200",
         "displayHeight": "1920",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12730,7 +12730,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12741,7 +12741,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12752,7 +12752,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12763,7 +12763,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12775,7 +12775,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12787,7 +12787,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12798,7 +12798,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12809,7 +12809,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12820,7 +12820,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12831,7 +12831,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12842,7 +12842,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12853,7 +12853,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12864,7 +12864,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12875,7 +12875,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12886,7 +12886,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12898,7 +12898,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12909,7 +12909,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12921,7 +12921,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -12933,7 +12933,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -13574,7 +13574,7 @@
         "from": "oddr",
         "displayWidth": "272",
         "displayHeight": "480",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -13587,7 +13587,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -13600,7 +13600,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -13644,7 +13644,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -13700,7 +13700,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -13712,7 +13712,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -13724,7 +13724,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -13736,7 +13736,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -13748,7 +13748,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -13760,7 +13760,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -13772,7 +13772,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -13784,7 +13784,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -13796,7 +13796,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -13882,7 +13882,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -13976,7 +13976,7 @@
         "from": "oddr",
         "displayWidth": "1600",
         "displayHeight": "2560",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -14009,7 +14009,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -14040,7 +14040,7 @@
         "from": "devicemap",
         "displayWidth": "1536",
         "displayHeight": "2048",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15644,7 +15644,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15656,7 +15656,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15668,7 +15668,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15680,7 +15680,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15703,7 +15703,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15725,7 +15725,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15737,7 +15737,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15749,7 +15749,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15760,7 +15760,7 @@
         "from": "open_db_modified",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15784,7 +15784,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15840,7 +15840,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15852,7 +15852,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15951,7 +15951,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15963,7 +15963,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15986,7 +15986,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -15999,7 +15999,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16035,7 +16035,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16059,7 +16059,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16072,7 +16072,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16114,7 +16114,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16242,7 +16242,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16265,7 +16265,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16337,7 +16337,7 @@
       "parentId": "genericRIM",
       "attributes": {
         "model": "BlackBerry PlayBook",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen",
         "from": "oddr",
         "displayWidth": "600",
@@ -16374,7 +16374,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "600",
-        "is_mobile_device": "false"
+        "mobile": "false"
       }
     },
     "PLS-M350": {
@@ -16406,7 +16406,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16418,7 +16418,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16431,7 +16431,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16444,7 +16444,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16457,7 +16457,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16470,7 +16470,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16524,7 +16524,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16800,7 +16800,7 @@
         "from": "open_db_modified",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16812,7 +16812,7 @@
         "from": "open_db_modified",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -16824,7 +16824,7 @@
         "from": "open_db_modified",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -17033,7 +17033,7 @@
         "from": "oddr",
         "displayWidth": "1600",
         "displayHeight": "2560",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -17045,7 +17045,7 @@
         "from": "oddr",
         "displayWidth": "1600",
         "displayHeight": "2560",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -17057,7 +17057,7 @@
         "from": "oddr",
         "displayWidth": "1600",
         "displayHeight": "2560",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -17080,7 +17080,7 @@
         "from": "oddr",
         "displayWidth": "1600",
         "displayHeight": "2560",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -18024,7 +18024,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -18250,7 +18250,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -18477,7 +18477,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -18552,7 +18552,7 @@
         "from": "open_db_modified",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -18883,7 +18883,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -18906,7 +18906,7 @@
         "from": "open_db_modified",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -18918,7 +18918,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -18952,7 +18952,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -18986,7 +18986,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -19008,7 +19008,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -19482,7 +19482,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -19494,7 +19494,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -19775,7 +19775,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -19787,7 +19787,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -19799,7 +19799,7 @@
         "from": "open_db_modified",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -19954,7 +19954,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -19977,7 +19977,7 @@
         "from": "open_db_modified",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -19989,7 +19989,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20001,7 +20001,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20123,7 +20123,7 @@
         "from": "devicemap",
         "displayWidth": "1200",
         "displayHeight": "1920",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20141,7 +20141,7 @@
         "from": "oddr",
         "displayWidth": "1200",
         "displayHeight": "1920",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20153,7 +20153,7 @@
         "from": "oddr",
         "displayWidth": "1200",
         "displayHeight": "1920",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20165,7 +20165,7 @@
         "from": "oddr",
         "displayWidth": "1200",
         "displayHeight": "1920",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20307,7 +20307,7 @@
         "from": "open_db_modified",
         "displayWidth": "480",
         "displayHeight": "854",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20319,7 +20319,7 @@
         "from": "open_db_modified",
         "displayWidth": "480",
         "displayHeight": "854",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20363,7 +20363,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20452,7 +20452,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20464,7 +20464,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20476,7 +20476,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20686,7 +20686,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20698,7 +20698,7 @@
         "from": "open_db_modified",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20710,7 +20710,7 @@
         "from": "open_db_modified",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20832,7 +20832,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20844,7 +20844,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20878,7 +20878,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20890,7 +20890,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20902,7 +20902,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20986,7 +20986,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -20998,7 +20998,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21568,7 +21568,7 @@
         "from": "oddr",
         "displayWidth": "1600",
         "displayHeight": "2560",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21598,7 +21598,7 @@
         "from": "oddr",
         "displayWidth": "1600",
         "displayHeight": "2560",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21610,7 +21610,7 @@
         "from": "oddr",
         "displayWidth": "1600",
         "displayHeight": "2560",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21622,7 +21622,7 @@
         "from": "oddr",
         "displayWidth": "1600",
         "displayHeight": "2560",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21634,7 +21634,7 @@
         "from": "oddr",
         "displayWidth": "1600",
         "displayHeight": "2560",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21653,7 +21653,7 @@
         "from": "oddr",
         "displayWidth": "1600",
         "displayHeight": "2560",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21665,7 +21665,7 @@
         "from": "oddr",
         "displayWidth": "1600",
         "displayHeight": "2560",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21689,7 +21689,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21701,7 +21701,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21713,7 +21713,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21736,7 +21736,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21759,7 +21759,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21771,7 +21771,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21805,7 +21805,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21817,7 +21817,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21840,7 +21840,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21885,7 +21885,7 @@
         "from": "oddr",
         "displayWidth": "1600",
         "displayHeight": "2560",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21897,7 +21897,7 @@
         "from": "oddr",
         "displayWidth": "1600",
         "displayHeight": "2560",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21965,7 +21965,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21977,7 +21977,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -21990,7 +21990,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -22003,7 +22003,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -22125,7 +22125,7 @@
         "from": "oddr",
         "displayWidth": "1024",
         "displayHeight": "480",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -22138,7 +22138,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23013,7 +23013,7 @@
         "from": "oddr",
         "displayWidth": "1200",
         "displayHeight": "1920",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23352,7 +23352,7 @@
         "from": "open_db_modified",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23364,7 +23364,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23376,7 +23376,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23554,7 +23554,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23632,7 +23632,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23656,7 +23656,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23734,7 +23734,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23811,7 +23811,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23823,7 +23823,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23835,7 +23835,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23846,7 +23846,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23870,7 +23870,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23892,7 +23892,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23905,7 +23905,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23928,7 +23928,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23940,7 +23940,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23952,7 +23952,7 @@
         "from": "oddr",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23986,7 +23986,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -23999,7 +23999,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -24304,7 +24304,7 @@
         "from": "open_db_modified",
         "displayWidth": "480",
         "displayHeight": "854",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -24419,7 +24419,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -24453,7 +24453,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -24465,7 +24465,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -24477,7 +24477,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -24488,7 +24488,7 @@
         "from": "open_db_modified",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -24501,7 +24501,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -24514,7 +24514,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -24759,7 +24759,7 @@
         "from": "oddr",
         "displayWidth": "768",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -24964,7 +24964,7 @@
         "from": "open_db_modified",
         "displayWidth": "800",
         "displayHeight": "1280",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -24976,7 +24976,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -25360,7 +25360,7 @@
         "from": "open_db_modified",
         "displayWidth": "480",
         "displayHeight": "854",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -25647,7 +25647,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -25747,7 +25747,7 @@
         "from": "oddr",
         "displayWidth": "480",
         "displayHeight": "800",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -25759,7 +25759,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },
@@ -25783,7 +25783,7 @@
         "from": "oddr",
         "displayWidth": "600",
         "displayHeight": "1024",
-        "is_tablet": "true",
+        "tablet": "true",
         "inputDevices": "touchscreen"
       }
     },

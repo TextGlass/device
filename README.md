@@ -8,15 +8,15 @@ Device attributes
  * displayWidth
  * from
  * inputDevices
- * is_bot
- * is_desktop
- * is_tablet
- * is_mobile_device
  * model
  * name
  * ppi
  * releaseYear
  * vendor
+ * bot
+ * desktop
+ * tablet
+ * mobile
  * unknown
 
 Credits
