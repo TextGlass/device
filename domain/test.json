@@ -2,7 +2,7 @@
   "TextGlassSpecVersion": 1.0,
   "type": "test",
   "domain": "device",
-  "domainVersion": "1.0",
+  "domainVersion": "1.0.0",
   "description": "TextGlass device domain tests",
   "publishDate": "2015-10-19T11:57:55-0400",
   "legal": {
