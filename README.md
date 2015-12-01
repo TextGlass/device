@@ -19,6 +19,11 @@ Device attributes
  * mobile
  * unknown
 
+Releases
+--------
+
+http://textglass.org/releases/device/
+
 Credits
 -------
 
